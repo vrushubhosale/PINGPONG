@@ -1,0 +1,43 @@
+body{
+    background-color: coral;
+}
+.headding{
+    width: 100%;
+    text-align: center;
+}
+
+.headding button{
+    float: right, top;
+    border: 1px solid whitesmoke;
+    font-size: x-large;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start, #status {
+    font-size: xx-large;
+}
+
+#h4{
+    background-color: brown;
+    color: white;
+    font-size: larger;
+    line-height: 2;
+margin: 0px;
+}
+
+.modal-dialog{
+width: 90%;
+}
+
+.instruction_image{
+    width: 45%;
+    display: inline-block;
+}
+
+.restart{
+    width: 20%;
+    font-size: xx-large;
+}
